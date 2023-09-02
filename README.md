@@ -35,6 +35,6 @@ code .  # vscode 실행
 ```
 - 주의 : vscode에서 Jupyter notebook으로 작성할 경우 select kernel을 확인할 것!
 
-  ## 실행 결과
-  - 올라간 코드 안에서 확인할 수 있음.
+## 실행 결과
+- 올라간 코드 안에서 확인할 수 있음.
   
